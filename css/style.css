@@ -1,0 +1,119 @@
+body{
+	font-family: gill sans;
+	text-align: center;
+	margin: 0 auto;
+    padding: 0 auto;
+}
+
+h2{
+	color: #565a5c;
+	/*font-size: 2.2em;*/
+}
+
+h3{
+	font-size: 1.2em;
+		
+}
+
+.my_header {
+	background-image: url("../images/titleimg.png");
+	background-size: cover;
+}
+
+.my_heroimg_bottom{
+	background-image: url("../images/heroimage.jpg");
+	background-size: cover;
+}
+
+.mybtn{
+	background-color: #ff585b;
+	border-width: 0;
+	padding: 0.4em 1em;
+}
+
+.mybtn:hover{
+	background-color: #ff585b;
+	color: rgba(255,255,255,0.8);
+}
+
+.mybtn_second{
+	background-color: #565a5c;
+	border-width: 0;
+	padding: 0.4em 1em;
+}
+
+.mybtn_second:hover{
+	background-color: #565a5c;
+	color: rgba(255,255,255,0.8);
+}
+
+.mybtn_login:hover{
+	border-color: white;
+}
+
+.my_icon{
+	width: 150px;
+}
+
+.my-searchbar{
+	margin-left: auto;
+	margin-right: auto;
+	width:50%;
+	padding-top: 2em;
+}
+
+.my_padding_top{
+	padding-top:5em;
+}
+
+.my_padding_top_sm{
+	padding-top: 2em;
+}
+
+.my_padding_bottom_sm{
+	padding-bottom: 1em;
+}
+
+.my_color{
+	color: #565a5c;
+}
+
+#hero_title{
+	color: rgba(255,255,255,0.9);
+	padding-top: 3em;
+}
+
+#hero_title_bottom{
+	color: rgba(0,0,0,0.9);
+	padding-top: 3em;
+	text-align: right;
+}
+
+#login-btn{
+	border: 2px solid #ff585b;
+	padding-top: 0;
+	padding-bottom: 0;
+	margin-top: 13px;
+	margin-left: 10px;
+}
+.my_lessons{
+	width: 250px;
+	cursor: pointer;
+}
+
+.my_background{
+	background-color: #e9eaea;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.my_footer{
+	color: rgba(0,0,0,.6);
+}
+
+#logout{
+	padding: 15px;
+	color: #777;
+	cursor: pointer;
+}
+

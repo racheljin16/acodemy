@@ -1,0 +1,22 @@
+.class-section h1{
+	padding-bottom: 1em;
+	padding-top:3em;
+}
+
+.search-bar{
+	padding-top: 10px;
+}
+
+@media screen and (max-width: 768px){
+	.search-bar{
+		padding-bottom: 12px;
+	}
+	.class-section h1{
+		padding-top:3em;
+	}
+}
+
+.my_footer{
+	margin-top: 3em;
+}
+
